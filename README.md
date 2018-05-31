@@ -42,11 +42,11 @@ We also ask that you come willing to take part and help out where you may have e
 ### Technical Prep
 
 We request that all participants bring a laptop with internet connection & modern web browser. On that laptop, please already have:
-    - our [workshop GitHub repository](https://github.com/cmh2166/elag18apis) on your computer (with mechanism to update / pull down latest changes on Monday morning).
-    - installed the latest, stable version (18.03.1-ce) of [Docker Community Edition](https://www.docker.com/community-edition);
-    - installed latest, stable version (1.10.2) of [Go](https://golang.org/doc/install#install) & [set up your Go workspace](https://github.com/sul-dlss-labs/taco#go-local-development-setup).
-    - set up a [free AWS account](https://aws.amazon.com/free/) & [awscli](https://docs.aws.amazon.com/cli/latest/userguide/installing.html) connected to that free account.
-    - installed [localstack](https://github.com/localstack/localstack#installing) (this requires python, sorry) for use in your Go workspace.
+- our [workshop GitHub repository](https://github.com/cmh2166/elag18apis) on your computer (with mechanism to update / pull down latest changes on Monday morning).
+- installed the latest, stable version (18.03.1-ce) of [Docker Community Edition](https://www.docker.com/community-edition);
+- installed latest, stable version (1.10.2) of [Go](https://golang.org/doc/install#install) & [set up your Go workspace](https://github.com/sul-dlss-labs/taco#go-local-development-setup).
+- set up a [free AWS account](https://aws.amazon.com/free/) & [awscli](https://docs.aws.amazon.com/cli/latest/userguide/installing.html) connected to that free account.
+- installed [localstack](https://github.com/localstack/localstack#installing) (this requires python, sorry) for use in your Go workspace.
 
 We will use our lunch break to help folks catch up or debug these installation requirements as we are able, though the morning requires Go be set up. If you're short on time or other needs, you need at least Go, localstack, and docker for following along with local development.
 
