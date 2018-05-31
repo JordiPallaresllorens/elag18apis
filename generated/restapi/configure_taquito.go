@@ -9,7 +9,7 @@ import (
 	errors "github.com/go-openapi/errors"
 	runtime "github.com/go-openapi/runtime"
 	middleware "github.com/go-openapi/runtime/middleware"
-	"github.com/sul-dlss-labs/taco/authorization"
+	"github.com/cmh2166/elag18apis/authorization"
 	graceful "github.com/tylerb/graceful"
 
 	"github.com/cmh2166/elag18apis/generated/restapi/operations"

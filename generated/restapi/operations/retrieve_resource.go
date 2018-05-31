@@ -9,7 +9,7 @@ import (
 	"net/http"
 
 	middleware "github.com/go-openapi/runtime/middleware"
-	"github.com/sul-dlss-labs/taco/authorization"
+	"github.com/cmh2166/elag18apis/authorization"
 )
 
 // RetrieveResourceHandlerFunc turns a function with the right signature into a retrieve resource handler

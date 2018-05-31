@@ -18,7 +18,7 @@ import (
 	spec "github.com/go-openapi/spec"
 	strfmt "github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
-	"github.com/sul-dlss-labs/taco/authorization"
+	"github.com/cmh2166/elag18apis/authorization"
 )
 
 // NewTaquitoAPI creates a new Taquito instance
