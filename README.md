@@ -1,5 +1,7 @@
 # ELAG 2018 Library Data APIs Bootcamp
 
+[![Join the chat at https://gitter.im/elag18apis/Lobby](https://badges.gitter.im/elag18apis/Lobby.svg)](https://gitter.im/elag18apis/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome to the open repository, documentation and materials for the ELAG 2018 Library Data APIs Bootcamp!
 
 * When: Monday, June 4th, 2018, 10:00 - 16:00
